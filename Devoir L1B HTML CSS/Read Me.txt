@@ -1,0 +1,9 @@
+- Utiliser la disposition flex
+- Utiliser le style CSS externe
+
+codes couleur :
+Bacground : #583E0C
+Text : #583E0C
+bordure : #583E0C
+lien : #142371
+
